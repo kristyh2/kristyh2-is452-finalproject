@@ -15,4 +15,14 @@ Beyond this basic task, this program is able to assign a weighted grade to each 
 * Contains keywords relevant to the topic of the assignment
 * Answers questions correctly
 
-## Sample Assignment Instructions
+## Sample Assignment Instructions (Feel free to copy and paste this text into your assignment instructions)
+
+To receive a grade for this assignment, you must follow the following formatting requirements:
+1. The first line of your assignment must be [Insert name of Assignment].
+2. The second line of your assignment must be your UIN.
+For example:
+  CMN529_ASSN1
+  UIN: 67203477
+
+3. Name your assignment "CMN_ASSN1_YOURUIN" (e.g., CMN529_ASSN1_67203477)
+4. Submit you assignment as a word document (e.g., CMN529_ASSN1_67203477.doc) and a plain text file (e.g., CMN529_ASSN1_67203477.txt). You will be graded based on the contents of your text file submission. Please make sure to double-check that you meet these formatting requirements before submitting.
