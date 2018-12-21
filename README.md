@@ -5,6 +5,8 @@ This holds materials for my final project in IS452. The purpose of my final proj
 
 The purpose of this programming project is to develop a program that will grade assignments and assign a completion grade to each student. This tool is not intended for assignments that require the evaluation of ideas or other forms of abstract thinking. Instead, this tool is better-suited for assignments that are graded on the student's ability to follow instructions delineated by the administrator. This tool may be particularly useful to instructors in large lecture classes who would like to expedite the process of assigning completion credit to students based on some objective criterias.
 
+This program is meant to be expanded. Currently, it can only grade based on completion and wordcount. In the future, you will be able to grade based on keywords/answers.
+
 This program is able to complete the following tasks:
 
 * Input a list of IDs (e.g., a class roster; UIN) and also a list of txt files (e.g., assignment submissions) to assign grades to those who completed the assignment.
@@ -12,8 +14,8 @@ This program is able to complete the following tasks:
 Beyond this basic task, this program is able to assign a weighted grade to each student based on the following criteria:
 * Follows basic instructions outlined in the rubric
 * Meets word limit criteria
-* Contains keywords relevant to the topic of the assignment
-* Answers questions correctly
+* Contains keywords relevant to the topic of the assignment (COMING SOON!)
+* Answers questions correctly (COMING SOON!)
 
 ## Sample Assignment Instructions (Feel free to copy and paste this text into your assignment instructions)
 
@@ -40,4 +42,11 @@ Step 1. Create a csv file with unique IDs that represent the students in your cl
 * Save your spreadsheet as a .csv (Hint: Before saving, copy the file name you create so that you can easily input it in the next step).
 
 Step 2. Run the program. Once you run the program, you will be prompted to input the following:
-* Name of CSV file with unique student IDs (Hint: this should be the name you just copied).
+* csv_input: Name of CSV file with unique student IDs (Hint: this will be the name you just copied).
+* assn_name: Name of assignment you told students to put in the submission (e.g., CMN529_ASSN1)
+* possible_points: The total amount of points this assignment is worth (e.g., 20)
+* completion_wt: The percentage that submitting the assignment is weighted (Hint: If you do not have a word limit, enter 0).
+* wordcount_min: The minimum number of words students must have to receive credit (Hint: If you are only grading for completion, enter 0).
+* wordcount_max: The maximum number of words students must have to receive credit. (Hint: If there is no wordcount limit, enter something like 100000000000).
+* wordcount wt: The percentage that following the wordcount criteria for the assignment is weighted (Hint: If you do not have a word limit, enter 0).
+
