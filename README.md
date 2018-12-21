@@ -50,3 +50,9 @@ Step 2. Run the program. Once you run the program, you will be prompted to input
 * wordcount_max: The maximum number of words students must have to receive credit. (Hint: If there is no wordcount limit, enter something like 100000000000).
 * wordcount wt: The percentage that following the wordcount criteria for the assignment is weighted (Hint: If you do not have a word limit, enter 0).
 
+Step 3. Open the new CSV file that holds the assignment grades in your project folder. (Hint: This will be the name of the CSV  file you inputted + "GRADED")
+
+Step 4. If everything looks in order, CELEBRATE!
+
+## But, What if Something Goes Horribly Wrong?
+
