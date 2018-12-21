@@ -16,6 +16,7 @@ Beyond this basic task, this program is able to assign a weighted grade to each 
 * Meets word limit criteria
 * Contains keywords relevant to the topic of the assignment (COMING SOON!)
 * Answers questions correctly (COMING SOON!)
+* Statistics about the submitted documents (COMING SOON!)
 
 ## Sample Assignment Instructions (Feel free to copy and paste this text into your assignment instructions)
 
