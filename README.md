@@ -55,5 +55,3 @@ Step 3. Open the new CSV file that holds the assignment grades in your project f
 
 Step 4. If everything looks in order, CELEBRATE!
 
-## But, What if Something Goes Horribly Wrong?
-
